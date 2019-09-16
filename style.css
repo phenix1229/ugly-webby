@@ -23,7 +23,7 @@ p {
     margin: 0 0 24px;
     text-align: justify;
     text-justify: inter-word;
-    text-shadow: #e73cae;
+    text-shadow: 5px 5px 5px #572044;
 }
 
 textarea {
