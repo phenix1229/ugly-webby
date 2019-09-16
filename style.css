@@ -67,3 +67,8 @@ input, textarea {
 div {
     text-align: right;
 }
+
+div h3 {
+    font-size: 30;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
