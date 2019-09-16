@@ -63,3 +63,7 @@ input, textarea {
     padding:5px;
     margin:5px
 }
+
+div {
+    text-align: right;
+}
