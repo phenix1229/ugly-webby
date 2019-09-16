@@ -44,13 +44,15 @@ li {
    
 li:last-child {
     border: none;
+    text-decoration-color: blueviolet;
+    text-decoration-line: line-through;
+    text-decoration-style: wavy;
 }
 
 form {
     height:110px;
     width:190px;
     margin:auto;
-    border-image: 
     border:1px #CCC solid;
     padding:10px;
 }
