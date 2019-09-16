@@ -1,11 +1,18 @@
+body {
+    background-image: 
+    url(https://qph.fs.quoracdn.net/main-qimg-d017f29ccdb5cd2a29663e5bdfe99605.webp);
+    background-repeat: repeat
+}
+
 h1 {
     color: #111;
-    font-family: 'Helvetica Neue', sans-serif;
+    font-family: 'Saira Stencil One', cursive;
     font-size: 275px;
     font-weight: bold;
     letter-spacing: -1px;
     line-height: 1;
     text-align: center;
+    text-shadow: 10px 10px 15px #e73cae;
 }
 
 p {
@@ -16,6 +23,7 @@ p {
     margin: 0 0 24px;
     text-align: justify;
     text-justify: inter-word;
+    text-shadow: #e73cae;
 }
 
 textarea {
@@ -42,6 +50,7 @@ form {
     height:110px;
     width:190px;
     margin:auto;
+    border-image: 
     border:1px #CCC solid;
     padding:10px;
 }
